@@ -20,13 +20,13 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  create_an_array = ["lil' bub", "grumpy cat", "Maru"]
-maru_cat = famous_cats.pop
+  create_an_array = ["wow", "I", "am", "really", "learning"]
+last_array = create_an_array.pop
  
-puts famous_cats.inspect 
-# > ["lil' bub", "grumpy cat"]
-puts maru_cat
-# > Maru
+puts create_an_array.inspect 
+
+puts last_array
+
   
 end
 
