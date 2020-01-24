@@ -5,7 +5,6 @@ end
 
 def create_an_array
   create_an_array = ["wow", "I", "am", "really", "learning"]
-  sleep.1
   
 end
 
