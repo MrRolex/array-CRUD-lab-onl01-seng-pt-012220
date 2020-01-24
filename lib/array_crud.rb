@@ -40,6 +40,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  create_array[5]
+  create_array[4]
   
 end
